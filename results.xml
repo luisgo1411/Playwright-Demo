@@ -1,0 +1,62 @@
+<testsuites id="" name="" tests="6" failures="0" skipped="0" errors="0" time="16.000025">
+<testsuite name="example.spec.js" timestamp="2024-09-02T17:49:10.638Z" hostname="chromium" tests="2" failures="0" skipped="0" time="3.988" errors="0">
+<testcase name="has title" classname="example.spec.js" time="1.855">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/example-has-title-chromium/video.webm]]
+
+[[ATTACHMENT|test-results/example-has-title-chromium/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="get started link" classname="example.spec.js" time="2.133">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/example-get-started-link-chromium/video.webm]]
+
+[[ATTACHMENT|test-results/example-get-started-link-chromium/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="example.spec.js" timestamp="2024-09-02T17:49:10.638Z" hostname="firefox" tests="2" failures="0" skipped="0" time="4.178" errors="0">
+<testcase name="has title" classname="example.spec.js" time="2.025">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/example-has-title-firefox/video.webm]]
+
+[[ATTACHMENT|test-results/example-has-title-firefox/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="get started link" classname="example.spec.js" time="2.153">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/example-get-started-link-firefox/video.webm]]
+
+[[ATTACHMENT|test-results/example-get-started-link-firefox/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="example.spec.js" timestamp="2024-09-02T17:49:10.638Z" hostname="webkit" tests="2" failures="0" skipped="0" time="3.742" errors="0">
+<testcase name="has title" classname="example.spec.js" time="1.782">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/example-has-title-webkit/video.webm]]
+
+[[ATTACHMENT|test-results/example-has-title-webkit/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="get started link" classname="example.spec.js" time="1.96">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/example-get-started-link-webkit/video.webm]]
+
+[[ATTACHMENT|test-results/example-get-started-link-webkit/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
