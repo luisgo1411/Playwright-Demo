@@ -1,0 +1,16 @@
+{
+  "name": "playwright-demo",
+  "version": "1.0.0",
+  "description": "Repo to create an AZ pipeline with playwright for demo purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test --workers=1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.5.2"
+  }
+}
